@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Danylo
 👋
 </h1>
-<h3>Software Engineer from Ukraine </h3>
+<h3>Fullstack Engineer from Ukraine </h3>
 
 ### My specialty
 
