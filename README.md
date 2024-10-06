@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Artem 
+<h1>Hi there, I'm Danylo
 👋
 </h1>
 <h3>Software Engineer from Ukraine </h3>
