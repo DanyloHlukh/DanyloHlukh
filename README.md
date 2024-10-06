@@ -47,4 +47,4 @@ Integrated next-auth for authentication and stripe for payment processing.
 ![](https://img.shields.io/badge/Digital_Ocean-Cloud-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 Please feel free to reach out to me!
-[Linkedin]([https://www.linkedin.com/company/bndigital-llc](https://www.linkedin.com/in/danylo-hlukhovskyi-042999326)
+[Linkedin](https://www.linkedin.com/in/danylo-hlukhovskyi-042999326)
